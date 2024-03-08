@@ -7,10 +7,12 @@
 ![Matheus Evangelista GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusDev007&show_icons=true&theme=radical)
 
 
-### Tecnologias que utilizo
+### Linguagens que eu uso
 
-<div style="display: inline-block"><br/>
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<div style='display: inline-block'><br>
+    <img align='center' alt='Matheus-HTML' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    <img align='center' alt='Matheus-CSS' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <img align='center' alt='Matheus-JS' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img align='center' alt='Matheus-PHP' height= '30' width='40'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+    <img align='center' alt='Matheus-Java' height= '30' width='40'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 </div>

@@ -1,4 +1,6 @@
-<h2 align="left">Oi! Meu nome é Matheus! Bem vindo ao meu perfil!</h2>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Olá👋;+Me chamo Matheus🙏!;🖥️Bem vindo ao meu perfil!🖥️"/>
+</h1>
 
 ###
 
@@ -37,6 +39,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MatheusDev007/MatheusDev007/output/snake.svg" alt="Snake animation" />
 
 ###
